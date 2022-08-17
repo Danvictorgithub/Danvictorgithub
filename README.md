@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan Victor Lofranco
 - 👀 I’m interested in Web Development/Artificial Intelligence
 - 🌱 I’m currently learning NodeJS/Express/MongoDB
-- 💞️ I’m looking to collaborate on or Internship on Web Development Area
+- 💞️ I'm currently working as a Front-End Intern role for creating Applications in React
 - 📫 Reach me at Danvictorprogramming1@gmail.com
 
 <!---

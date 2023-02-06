@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Dan Victor Lofrancoo MERN Stack Developer</p>
+<p align="left">I’m Dan Victor Lofranco MERN Stack Developer</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Dan Victor Lofranco MERN Stack Developer</p>
+<p align="left">I’m Dan Victor Lofranco MERN-Stack/Rails Developer [danvictor-lofranco.vercel.app]</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>- 🌱 I’m currently learning TypeScript/Java/Java Spring/SQL-Postgre/Ruby-on-Rails/Django/Data Analyst<br>- 💞️ I am currently not working however, I am free to take task on simple application SPA/FullStack with React or EJS<br>- 📫 Reach me at Danvictorprogramming1@gmail.com</p>
+<p align="left">- 👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>- 🌱 I’m currently learning TypeScript/Java/Java Spring/Django/Data Analyst<br>- 💞️ I am currently not working however, I am free to take task on simple application SPA/FullStack with React/Vue/Svelte and Express/Rails<br>- 📫 Reach me at Danvictorprogramming1@gmail.com</p>
 
 ###
 

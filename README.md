@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Dan Victor Lofranco MERN-Stack/Rails Developer <a href="danvictor-lofranco.vercel.app">[Portfolio]</a></p>
+<p align="left">I’m Dan Victor Lofranco MERN-Stack/Rails Developer <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
 
 ###
 

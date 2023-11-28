@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>- 🌱 I’m currently learning TypeScript/Java/Java Spring/Django/Data Analyst<br>- 💞️ I am currently not working however, I am free to take task on simple application SPA/FullStack with React/Vue/Svelte and Express/Rails<br>- 📫 Reach me at Danvictorprogramming1@gmail.com</p>
+<p align="left">- 👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>- 🌱 I’m currently learning TypeScript/Java/Java Spring/Django/Data Analyst<br>- 💞️ Currently working on Cart-And-Tell <br>- 📫 Reach me at Danvictorprogramming1@gmail.com</p>
 
 ###
 

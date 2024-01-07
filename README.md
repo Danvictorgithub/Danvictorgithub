@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Dan Victor Lofranco MERN/MEVN/PERN/PEVN/Nuxt-NestJS-NodeTS(NNN Stack)/Svelte/SvelteKit/Rails Developer <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
+<p align="left">I’m Dan Victor Lofranco Full Stack Developer, I use (Next-Nuxt-Sveltekit) and (Express-NestJS-Ruby on Rails) <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
 
 ###
 

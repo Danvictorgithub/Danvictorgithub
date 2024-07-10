@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Dan Victor Lofranco Full Stack Developer, I use (Next-Nuxt-Sveltekit) and (Express-NestJS-Ruby on Rails) <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
+<p align="left">I’m Dan Victor Lofranco Full Stack Developer, I use (Next-Nuxt-Sveltekit) and (Express-NestJS-Ruby on Rails, Django) <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>- 🌱 I’m currently learning TypeScript/Java/Java Spring/Django/Data Analyst<br>- 💞️ Open for Work <br>- 📫 Reach me at Danvictorprogramming1@gmail.com</p>
+<p align="left">- 👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>- 🌱 I’m currently learning Java/Java Spring/Data Analyst<br>- 💞️ Open for Work <br>- 📫 Reach me at Danvictorprogramming1@gmail.com</p>
 
 ###
 

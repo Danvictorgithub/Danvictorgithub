@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Dan Victor Lofranco Full Stack Developer, I use (Angular-Next-Nuxt-Sveltekit) and (Express-NestJS-Rails-Django-Go) <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
+<p align="left">I’m Dan Victor Lofranco Full Stack Developer, I use (Angular-Next-Nuxt-Sveltekit) and (Express-NestJS-Rails-Django-Go), I am also a begineer in Machine Learning with Supervised Learning and Unsupervised Learning <a href="https://danvictor-lofranco.vercel.app/">[Portfolio]</a></p>
 
 ###
 

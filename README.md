@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>🌱 I’m currently learning Reinforcement Learning<br>💞️ Open for Work<br>📫 Reach me at Danvictorprogramming1@gmail.com
+👀 I’m interested in Web Development/Artificial Intelligence/Game Development<br>🌱 I’m currently learning Reinforcement Learning<br>💞️ Open for Work<br>📫 Reach me at danvictorprogramming1@gmail.com
 
 
 ## 🌐 Socials:
